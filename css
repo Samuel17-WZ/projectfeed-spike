@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(27, 26, 26);
+}
+header{
+    background-color: white;
+    font-family: Segoe UI;
+    padding: 5px;
+    color: black;
+}
+main{
+    background-color:black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    margin: auto;
+    padding: 25px;
+    color: aliceblue;
+}
+footer{
+    background-color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    color: black;
+}
+div{
+    margin-top: 10px;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+.posteo{
+    background-color: rgb(50, 50, 53);
+}
+
+.anuncio{
+    background-color: yellowgreen;
+}
+
+#foto-perfil{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    width: 100%;
+}
+
+#nombre-perfil{
+    font-family: Montserrat;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+}
+
+h2{
+    text-align: center;
+    font-size: 30px;
+}
